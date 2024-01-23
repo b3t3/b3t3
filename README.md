@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">A dedicated Junior Full-Stack/Front-End Developer from Bulgaria</h3>
 
-<img align="right" alt="Coding" width="400" src="https://hackernoon.com/images/f2px36fy.gif">
+<img align="right" alt="Coding" width="800" src="https://hackernoon.com/images/f2px36fy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b3t3&label=Profile%20views&color=0e75b6&style=flat" alt="b3t3" /> </p>
 
