@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif">
 
 <h1 align="center">Hi 👋, I'm Viktor</h1>
-<h3 align="center">A dedicated Junior Full-Stack/Front-End Developer from Bulgaria</h3>
+<h3 align="center">A dedicated Junior Full-Stack/Front-End Developer</h3>
 
 <img align="right" alt="Coding" width="800" src="https://hackernoon.com/images/f2px36fy.gif">
 
