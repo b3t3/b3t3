@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">A dedicated Junior Front-End Developer</h3>
 
-<img align="right" alt="Coding" width="800" src="https://hackernoon.com/images/f2px36fy.gif">
+<img align="center" alt="Coding" width="800" src="https://hackernoon.com/images/f2px36fy.gif">
 
 <h3 align="left">Connect with me:</h3>
 
